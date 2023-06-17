@@ -1,6 +1,6 @@
-# Allrounder-Property-Management-System IEEEmadC Mobile Application Development Contest
+# Allrounder-Property-Management-System | BnB (Build & Buy) | IEEEmadC Mobile Application Development Contest
 
-World is growing day by day and everything is being transformed into technology. There are so many projects which have been established on property management systems. The idea is to develop an android application to provide multiple facilities of buying, selling and renting of houses and plots from minimum to maximum rates at one platform, keeping in mind about the data security of buyers and sellers. Meanwhile, the end user will be facilitated by designers and architects according to their needs and demands. This whole process and data transaction will be handled by the manager of Allrounder and is responsible for the secure and authenticate interaction between both parties.
+The world is growing day by day and everything is being transformed into technology. There are so many projects which have been established on property management systems. The idea is to develop an Android application to provide multiple facilities for buying, selling, and renting houses and plots from minimum to maximum rates at one platform, keeping in mind the data security of buyers and sellers. Meanwhile, the end user will be facilitated by designers and architects according to their needs and demands. This whole process and data transaction will be handled by the manager of Allrounder who is responsible for the secure and authenticated interaction between both parties.
 
 ![cover](https://user-images.githubusercontent.com/35136890/71212745-bd718a00-22d3-11ea-9afc-cc2742667d8c.PNG)
 
