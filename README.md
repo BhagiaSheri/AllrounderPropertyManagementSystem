@@ -67,7 +67,7 @@ apply plugin: 'com.google.gms.google-services'
 [Allrounder Property Management System](https://youtu.be/sOjuVCm4vpw)
 
 # The coderBoost++ Team
-Allrounder Property Management System is the collaborative effort of the members of coderBoost++ BhagiaSheri [bhagiasheri24@gmail.com](URL) and PoojaKumari [poojakumari11228@gmail.com](URL). We used to analyze real-world problems and solve them through software. Therefore, we came up with an idea to make a mobile app for them and worked as developers and designers as well.
+Allrounder Property Management System is the collaborative effort of the members of coderBoost++ Bhagia Sheri [bhagiasheri24@gmail.com(URL) and Pooja Kumari [poojakumari11228@gmail.com](URL). We used to analyze real-world problems and solve them through software. Therefore, we came up with an idea to make a mobile app for them and worked as developers and designers as well.
 # License
 [Apache-2.0](https://github.com/poojakumari11228/AllrounderPropertyManagementSystem/blob/master/LICENSE)
 # Table
